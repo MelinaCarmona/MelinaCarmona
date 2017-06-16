@@ -10,8 +10,7 @@ menu:
 - {name: 'Fotografía', file: 'resources.html'}
 - {name: 'Proyectos', file: 'sample-posts.html'}
 - {name: 'Documentation', file: 'documentation.html'}
-- {name: 'Sobre mí', file: 'about.html'}
-# - {name: 'Contacto', file: 'contact.html'}
+- {name: 'Sobre mí', file: 'sobremi.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/melinacarmonag'}
