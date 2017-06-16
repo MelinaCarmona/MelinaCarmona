@@ -1,9 +1,9 @@
 title:  "MCG"
 tagline: "Melina Carmona Gómez"
 description:
-author:
-  name: "Melina"
-  twitter: melinacarmonag
+#author:
+#  name: "Melina"
+#  twitter: melinacarmonag
 
 menu:
 - {name: 'Interesting Facts', file: 'facts.html'}
