@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "¡Bienvenid@ a mi página web!"
+title: "¡Bienvenid@s a mi página web!"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
