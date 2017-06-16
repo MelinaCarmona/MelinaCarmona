@@ -11,7 +11,7 @@ menu:
 - {name: 'Sample Posts', file: 'sample-posts.html'}
 - {name: 'Documentation', file: 'documentation.html'}
 - {name: 'About', file: 'about.html'}
-- {name: 'Contact', file: 'contact.html'}
+- {name: 'Contacto', file: 'contact.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/melinacarmonag'}
