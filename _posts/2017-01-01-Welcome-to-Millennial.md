@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: "¡Bienvenid@ a mi página web!"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
