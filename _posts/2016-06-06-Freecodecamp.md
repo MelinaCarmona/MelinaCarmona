@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Free Code Camp"
-author: "Paul Le"
-categories: resources
+title: "Terminal de transporte"
+author: "MelinaCG"
+categories: proyectos
 tags: [sample]
 image:
   feature: city-4.jpg
