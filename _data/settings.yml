@@ -6,10 +6,9 @@ description:
 #  twitter: melinacarmonag
 
 menu:
-#- {name: 'Interesting Facts', file: 'facts.html'}
-- {name: 'Opinión', file: 'resources.html'}
-- {name: 'Proyectos', file: 'sample-posts.html'}
-- {name: 'Concursos', file: 'documentation.html'}
+- {name: 'Proyectos', file: 'resources.html'}
+- {name: 'Concursos', file: 'sample-posts.html'}
+- {name: 'Opinión', file: 'documentation.html'}
 - {name: 'Sobre mí', file: 'sobremi.html'}
 
 social:
