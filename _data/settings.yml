@@ -7,7 +7,7 @@ description:
 
 menu:
 #- {name: 'Interesting Facts', file: 'facts.html'}
-- {name: 'Fotografía', file: 'resources.html'}
+- {name: 'Opinión', file: 'resources.html'}
 - {name: 'Proyectos', file: 'sample-posts.html'}
 - {name: 'Concursos', file: 'documentation.html'}
 - {name: 'Sobre mí', file: 'sobremi.html'}
